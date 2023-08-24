@@ -76,7 +76,7 @@ After analyzing the data on shark attacks, the following conclusions can be draw
 
 It is important to note that these data represent recorded information on shark attacks and should not be generalized to all interactions between sharks and humans. Water safety is crucial, and it is recommended to follow appropriate guidelines and precautionary measures when swimming or diving in areas where sharks may be present.
 
-![Conteo de Ataques por Especie de Tiburón](count_by_species.png)
+![Conteo de Ataques por Especie de Tiburón](Shark_attacks.png)
 
 
 ## Contributions
